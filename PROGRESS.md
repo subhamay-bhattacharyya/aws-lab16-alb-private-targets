@@ -2,10 +2,13 @@
 
 ## Completed ✅
 
-- [x] AWS
-- [x] Amazon
+- [x] AWS VPC Subnets
+- [x] Subnets
+- [x] Route Table
+- [x] Security Group
 
 ## Pending 🏗️
 
-- [ ] Amazon
-- [ ] AWS
+- [ ] AMI
+- [ ] Target Group
+- [ ] Application Load Balancer
